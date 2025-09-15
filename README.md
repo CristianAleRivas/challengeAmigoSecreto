@@ -19,11 +19,13 @@ Este es un proyecto sencillo en **JavaScript, HTML y CSS** que permite a los usu
 
 ## 📂 Estructura del proyecto  
 
+```plaintext
 📁 proyecto-amigo-secreto
-│── index.html # Estructura principal del proyecto
-│── app.js # Lógica en JavaScript (agregar, mostrar y sortear amigos)
-│── style.css # Estilos del proyecto
-└── assets/ # Carpeta de imágenes (íconos, banner)
+│── index.html        # Estructura principal del proyecto
+│── app.js            # Lógica en JavaScript (agregar, mostrar y sortear amigos)
+│── style.css         # Estilos del proyecto
+└── assets/           # Carpeta de imágenes (íconos, banner)
+
 
 
 ---
